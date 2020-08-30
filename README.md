@@ -1,6 +1,6 @@
 <h1> Bike Share Data </h1>
 
-in this project, you will use data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+In this project, I am using data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. You will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
 
 <h3> The Datasets </h3>
 
@@ -48,6 +48,7 @@ More info about bike share use in Chicago, New York City, and Washington come up
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
+**NB**: The project is a small one that is mainly done for purpose of practicing on the data handling, for the purpose of the analysis by answering certain questions, by the Python language. So, it lacks wrangling, detailed analysis and finally supporting visualizations.
 
 
 I referred to this helpful link during this project:
