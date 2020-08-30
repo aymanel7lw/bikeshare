@@ -23,7 +23,7 @@ Birth Year
 
 <h3> Statistics Computed </h3>
   
-More info about bike share use in Chicago, New York City, and Washington come up by computing a variety of descriptive statistics. In this project, I wrote code to provide the following information:
+More info about bike share use in Chicago, New York City, and Washington come up by computing a variety of descriptive statistics. In this project, I wrote a python code to provide the following information:
 
 1. Popular times of travel (i.e., occurs most often in the start time)
 
