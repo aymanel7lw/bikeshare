@@ -4,9 +4,9 @@ in this project, you will use data provided by Motivate, a bike share system pro
 
 <h3> The Datasets </h3>
 
-chicago.csv
-new_york_city.csv
-washington.csv
+* chicago.csv
+* new_york_city.csv
+* washington.csv
 
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
