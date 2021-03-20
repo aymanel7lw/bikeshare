@@ -48,7 +48,7 @@ More info about bike share use in Chicago, New York City, and Washington come up
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
-**NB**: This is a small project that is mainly done for the purpose of practicing on the data handling, for the purpose of the analysis by answering certain questions, by the Python language. So, it lacks wrangling, detailed analysis and finally supporting visualizations.
+**NB**: This is a small project on using some statistics to answer certain questions using **Python**.
 
 
 I referred to this helpful link during this project:
